@@ -13,5 +13,5 @@ programs were supposed to be developed in teams, last one individually.
 | [`03/`](03/) | value/ref semantics, classes, initialization, const-correctness, C++20 consteval & constinit, rvalues, move semantics, copy-constructors, enums, operator overloading   | @Mikimm16          |
 | [`04/`](04/) | templates & metaprogramming, compile-time assertions, fold expressions, concepts, variadic templates, auto and decltype keywords                                         | @voytala, @uroslam |
 | [`05/`](05/) | memory management, shared/weak/unique pointers, exception safety, RAII, Pimpl, copy-on-write                                                                            | @jk438520          |
-| [`06/`](06/) | dynamic polimorphism, C++20 modules, slicing, inheritance, Liskov substitution principle, GRASP, SOLID, project patterns                                                | @MMusername        |
+| [`06/`](06/) | dynamic polymorphism, C++20 modules, slicing, inheritance, Liskov substitution principle, GRASP, SOLID, project patterns                                                | @MMusername        |
 | [`07/`](07/) | functional programming, lambda, C++20 lambda, PMF, `<functional>` header                                                                                                | solo               |
